@@ -1,7 +1,7 @@
 variable "storage-account-name" {
     description = "specify storage-account name"
     type =  string
-    default = "stkpmgcadwpoc0420217279"
+    default = "stkpmgcadwpoc0420217271"
 
 }
 
